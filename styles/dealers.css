@@ -1,0 +1,34 @@
+.dealers__photo {
+    width: 40%;
+}
+
+.main__header {
+    text-align: center;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.page__header {
+    text-align: center;
+}
+
+.dealers__intro {
+    text-align:center;
+    border: 5px solid;
+    border-radius: 10px;
+}
+
+.dealers__list {
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.dealer {
+        border: 5px solid;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 20px;
+}
