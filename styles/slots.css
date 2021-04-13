@@ -1,15 +1,6 @@
-@import "main.css";
 
 .games__photo {
     width: 40%;
-}
-
-.header__title {
-    text-align: center;
-}
-
-.navigation {
-    text-align: center;
 }
 
 .page__header {
@@ -18,8 +9,6 @@
 
 .page__description {
     text-align:center;
-    border: 5px solid;
-    border-radius: 10px;
 }
 
 .slots__container {
