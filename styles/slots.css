@@ -1,21 +1,19 @@
 @import "main.css";
 
-.slots__container {
+.games__photo {
+    width: 50%;
+}
 
+
+.slots__container {
+display: flex;
 }
 
 .slots__body {
 
 }
 
-.slots__list {
+.slots {
 
 }
 
-.slots__how_to {
-
-}
-
-.slots__bet {
-    
-}
