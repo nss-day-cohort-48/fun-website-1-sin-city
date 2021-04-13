@@ -1,9 +1,16 @@
 @import "main.css";
 
 .games__photo {
-    width: 50%;
+    width: 40%;
 }
 
+.header__title {
+    text-align: center;
+}
+
+.page__header {
+    text-align: center;
+}
 
 .slots__container {
 display: flex;
@@ -14,6 +21,10 @@ display: flex;
 }
 
 .slots {
-
+        border: 5px solid;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 20px;
+        flex-wrap: wrap;
 }
 
