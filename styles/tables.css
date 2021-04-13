@@ -1,0 +1,52 @@
+.header__title {
+  text-align: center;
+}
+
+.navigation {
+  text-align: center;
+}
+
+.page__header {
+  text-align: center;
+}
+
+/* 
+Tables does not currently have a description. 
+If we add one, comment this back in!
+
+.page__description {
+  text-align: center;
+  border: 5px solid;
+  border-radius: 10px;
+} 
+*/
+
+.tables__container {
+  display: flex;
+}
+
+.tables__game {
+  border: 5px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  flex-wrap: wrap;
+  width: 40%;
+  align-content: center;
+}
+
+.tables__image {
+    width: 60%;
+}
+
+/* 
+IN ORDER:
+
+.tables__game
+    .tables__name
+    .tables__image
+    .tables__description
+    .tables__dealers
+    .tables__bet
+
+*/
