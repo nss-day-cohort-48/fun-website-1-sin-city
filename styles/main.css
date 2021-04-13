@@ -1,0 +1,7 @@
+@import "/styles/dealers.css";
+@import "/styles/slots.css";
+@import "/styles/tables.css";
+
+body {
+    margin: 0;
+}
