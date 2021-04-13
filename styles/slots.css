@@ -8,8 +8,18 @@
     text-align: center;
 }
 
+.navigation {
+    text-align: center;
+}
+
 .page__header {
     text-align: center;
+}
+
+.page__description {
+    text-align:center;
+    border: 5px solid;
+    border-radius: 10px;
 }
 
 .slots__container {
