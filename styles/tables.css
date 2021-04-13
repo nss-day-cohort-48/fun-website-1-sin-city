@@ -1,14 +1,17 @@
+/* 
+Madeline is going to do all of our formal centering in main.css
+
 .header__title {
   text-align: center;
 }
 
-.navigation {
+/* .navigation {
   text-align: center;
 }
 
 .page__header {
   text-align: center;
-}
+} */
 
 /* 
 Tables does not currently have a description. 
